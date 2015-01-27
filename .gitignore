@@ -1,0 +1,7 @@
+.svn*
+nbproject
+web.config
+*.komodo*
+.DS_Store
+.*.sw[op]
+.idea
